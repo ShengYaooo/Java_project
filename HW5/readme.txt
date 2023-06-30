@@ -1,6 +1,6 @@
 作者：數學系115級、計算機概論(一)、C14116158、黃聖堯
 程式檔案名稱：hw5
-使用方式：在cmd找到hw4.java的位置後，編譯hw4.java MainApp.java Pokemon.java Skill.java ConsoleIn.java後執行程式，
+使用方式：在cmd找到hw5.java的位置後，編譯hw5.java MainApp.java Pokemon.java Skill.java ConsoleIn.java後執行程式，
 執行程式後可以選擇讀檔案或者建立新檔案等動作等動作。
 
 	建立新檔案:
